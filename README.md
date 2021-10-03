@@ -1,4 +1,4 @@
-# Yeast MASTER Data Analysis
+# Yeast Pol II TSS sequence specificity analysis
 
 This repository includes scripts used for analyzing yeast MASTER (MAssively Systematic Transcript End Readout) libraies studying how sequence and Pol II activity determine transcription TSS selection in budding yeast *Saccharomyces cerevisiae*.
 
