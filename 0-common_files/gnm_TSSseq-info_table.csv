@@ -1,0 +1,4 @@
+﻿super_id,Grad,Seqing,PolII,mrgd_indv,Notes,5979x401_cnt_mtx,5979x401_eff_mtx
+25,TZ,Illumina,WT,mrgd,merged WT_Vv1555_1565,RPB1WT_S8_fs.bedgraph_RPB1WT_S8_rs.bedgraph_250Up_agMed_uniq_150Down_nochr.gff.csv,TZ_WT_mrgd-401x5979_effMtx.csv
+26,TZ,Illumina,E1103G,mrgd,merged E1103G_Vv1411_1412_1556_1566,E1103G_S9_fs.bedgraph_E1103G_S9_rs.bedgraph_250Up_agMed_uniq_150Down_nochr.gff.csv,TZ_E1103G_mrgd-401x5979_effMtx.csv
+27,TZ,Illumina,H1085Y,mrgd,merged H1085Y_Vv1413_1414_1557_1567,H1085Y_S10_fs.bedgraph_H1085Y_S10_rs.bedgraph_250Up_agMed_uniq_150Down_nochr.gff.csv,TZ_H1085Y_mrgd-401x5979_effMtx.csv

@@ -1,0 +1,19 @@
+@HD	VN:1.0	SO:unsorted
+@SQ	SN:I	LN:230218
+@SQ	SN:II	LN:813184
+@SQ	SN:III	LN:316620
+@SQ	SN:IV	LN:1531933
+@SQ	SN:IX	LN:439888
+@SQ	SN:Mito	LN:85779
+@SQ	SN:V	LN:576874
+@SQ	SN:VI	LN:270161
+@SQ	SN:VII	LN:1090940
+@SQ	SN:VIII	LN:562643
+@SQ	SN:X	LN:745751
+@SQ	SN:XI	LN:666816
+@SQ	SN:XII	LN:1078177
+@SQ	SN:XIII	LN:924431
+@SQ	SN:XIV	LN:784333
+@SQ	SN:XV	LN:1091291
+@SQ	SN:XVI	LN:948066
+@PG	ID:hisat2	PN:hisat2	VN:2.1.0	CL:"/Users/Informatics/miniconda3/envs/seq_lib_py27_umi/bin/hisat2-align-s --wrapper basic-0 -q -k 1 --max-intronlen 20 -x r64_tran/genome_tran -S VV1399-ExtrForGenoMap_25flt_3EdTrim-UMItooled-k1_N20.sam -U VV1399-ExtrForGenoMap_25flt_3EdTrim-UMItooled.fastq"

@@ -1,0 +1,32 @@
+### common abbreviations used in Yunye's file names / scripts ###
+
+<> script file
+[] data file
+
+A: anly=analysis/analyses/analyze; actl=actual; aggr=aggregated; af=after;
+B: bar=barcode; bth=batch; B1=batch-1; bc,b/c=because; bf=before;
+C: cen = centered; ck=check; cmb=combined; cmn=common; cnt=count; cor=correlation; coef=coefficient; cp=compare/comparison; ctrl=Control; ct=cut(-off); CX=correction/correct; 
+D: db=database; dc=decrease; ddp=deduplication/deduplicated; df=dataframe; diff=different/difference; dir=directory; dist=distribution; dn=downstream; dnSmp=down-sampling; drp=drop/dropped; Dseq/Ds=DNA-seq; dup=duplication;
+E: E/Ec=E.coli; eff=(TSS) efficiency; 1eff=efficiency of designed +1 TSS; extr=extract/extraction; 
+F: fltr=filter/filtered; 
+G: gnm=genome/genomic; grp=group;
+H: hist=histgram; HJ=Huiyan Jin; 
+I: idv/indv=individual; info=information; inp=input; idx=index; itr=interaction;
+J:
+K: kp=keep/kept;
+L: lib=library;
+M: med=median; mlt=multi-/multiple; mp=map; mtch=match; mrgd=merged; mtx/mtrx=matrix; mut=mutant/mutated/mutation; 
+N: n9=-9;
+O: org=original; out/op=output; 
+P: p/pool=pooled; para=parameter; pred=predicted/prediction; pref=prefrence; prf=perfect; prob=probability; pos=position; p9=+9; 3p=post-step_3; pswd=password; 
+Q:
+R: rep=replicate; reprod=reproducibility; rd=read/reads; resid=residuals;
+S: seq=sequence/sequencing; sca=scatter plot; smp=sample; smping=sampling; stat=statistics; stf=stuff/stuffing/stuffer; seq=sequence/sequencing; sub=subgroup/subset;
+T: Ts/Tseq=TSS-seq; TS=troubleshooting; ttl=totle; Tx=treatment; TZ=Tingting Zhao;
+U: UMI=Unique Molecular Identifier; up=upstream;
+V: var=variant; vis=visualize/visualization;
+W
+X
+Y: Y=yeast; YZ=Yunye Zhu;
+Z
+#: 811mtf=-8/-1/+1 motifs;
