@@ -1,11 +1,11 @@
-# Yeast Pol II TSS sequence specificity analysis
+# Pol II MASTER data analysis
 
-This repository includes scripts used for analyzing yeast MASTER (MAssively Systematic Transcript End Readout) libraies studying how sequence and Pol II activity determine transcription TSS selection in budding yeast *Saccharomyces cerevisiae*.
+This repository includes scripts used for analyzing "Pol II MASTER" (Pol II MAssively Systematic Transcript End Readout) libraies studying how sequence and Pol II activity determine transcription start site selection in budding yeast *Saccharomyces cerevisiae*.
 
-Three major parts: (1) yeast MASTER libraries analysis, including DNA-seq analysis, TSS-seq analysis, TSS sequence preferece analysis; (2) genomic TSS-seq analysis; (3) modeling analysis.
+Three major parts: (1) Pol II MASTER libraries analysis, including DNA-seq analysis, TSS-seq analysis, TSS sequence preferece analysis; (2) genomic TSS-seq analysis; (3) modeling analysis.
 
-## Yeast MASTER libraries analysis
-The purpose for DNA-seq analysis is to assign each 9 nt randomized TSS sequence to a corresponding 24 nt barcode. Scripts in folder [1-DNAseq] performed following analyses:
+## Pol II MASTER libraries analysis
+The purpose for DNA-seq analysis is to assign each 9 nt randomized TSS sequence to a corresponding 20N barcode. Scripts in folder [1-DNAseq] performed following analyses:
 1. paired-end reads merging using PEAR;
 2. TSS sequence variant and corresponding barcode extraction;
 3. TSS and barcode error correction using UMI-tools;
