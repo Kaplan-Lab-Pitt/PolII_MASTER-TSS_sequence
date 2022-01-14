@@ -1,6 +1,7 @@
 # Pol II MASTER data analysis
 
 This repository includes scripts used for analyzing "Pol II MASTER" (Pol II MAssively Systematic Transcript End Readout) libraies studying how sequence and Pol II activity determine transcription start site selection in budding yeast *Saccharomyces cerevisiae*.
+ - Yunye Zhu, Irina O. Vvedenskaya, Bryce E. Nickels, and Craig D. Kaplan. ["Quantitative analysis of transcription start site selection in *Saccharomyces cerevisiae* determines contributions of DNA sequence and RNA Polymerase II activity."](https://www.biorxiv.org/content/10.1101/2021.11.09.467992v2) *bioRxiv* (2021).
 
 Three major parts: (1) Pol II MASTER libraries analysis, including DNA-seq analysis, TSS-seq analysis, TSS sequence preferece analysis; (2) genomic TSS-seq analysis; (3) modeling analysis.
 
